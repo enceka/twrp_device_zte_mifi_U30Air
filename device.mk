@@ -21,8 +21,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     bootctrl.ums9620
 
-PRODUCT_STATIC_BOOT_CONTROL_HAL := \
-    bootctrl.ums9620 \
+PRODUCT_PACKAGES += \
     libgptutils \
     libz \
     libcutils

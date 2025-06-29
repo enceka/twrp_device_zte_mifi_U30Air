@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_U30Air.mk
+    $(LOCAL_DIR)/twrp_U30Air.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_U30Air-user \
-    omni_U30Air-userdebug \
-    omni_U30Air-eng
+    twrp_U30Air-user \
+    twrp_U30Air-userdebug \
+    twrp_U30Air-eng
